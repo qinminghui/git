@@ -13,4 +13,7 @@ aaa
 aaa
 aaa
 aaa
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
