@@ -1,3 +1,6 @@
 #!/bin/bash
 import os
 if 
+then
+do
+done
